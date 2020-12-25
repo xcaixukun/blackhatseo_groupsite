@@ -1,2 +1,5 @@
-# blackhatseo_groupsite
+# X37 SEO TEAM 泛站群专用系统2.0
+---
+- 本程序使用`ThinkPHP5.0.24`开发,使用了SQLite3作为本地数据库,具有本地缓存功能.
+- 支持`CMS站群` `论坛模式`站群
 黑帽SEO站群程序,d58站群,黑侠站群,泛站群,小旋风站群系统,黑帽seo,白帽seo
